@@ -14,5 +14,4 @@ https://www.figma.com/file/O7j0WAmaf7YUozdnpltCJo/Ethereum-based-Snapchat?node-i
 docs to ceramic self.id framework:
 https://developers.ceramic.network/tools/self-id/framework/
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
